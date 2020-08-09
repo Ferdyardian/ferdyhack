@@ -53,10 +53,3 @@ def main():
 
 main()
 lagi()
-
-
-
-
-
-  
-  
